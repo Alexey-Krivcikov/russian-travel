@@ -18,6 +18,7 @@
 @import url(../blocks/content/__intro/content__intro.css);
 @import url(../blocks/content/__photo-grid/content__photo-grid.css);
 @import url(../blocks/content/__places/content__places.css);
+@import url(../blocks/content/__cover/content__cover.css);
 
 /* ! lead */
 @import url(../blocks/lead/lead.css);
@@ -48,3 +49,9 @@
 @import url(../blocks/place/__link/place__link.css);
 @import url(../blocks/place/__text/place__text.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
+
+/* ! cover */
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__item/cover__item.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
