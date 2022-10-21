@@ -1,0 +1,22 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 92px;
+  align-items: center;
+  box-sizing: content-box;
+  padding-bottom: 92px;
+}
+
+@media screen and (max-width: 1119px) {
+  .content {
+    gap: 88px;
+    padding-bottom: 88px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .content {
+    gap: 64px;
+    padding-bottom: 64px;
+  }
+}
