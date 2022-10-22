@@ -6,4 +6,6 @@
   color: #FFFFFF;
   font-weight: 400;
   margin: 0 auto;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
 }

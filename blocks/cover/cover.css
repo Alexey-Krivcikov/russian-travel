@@ -4,18 +4,18 @@
 
 @media screen and (max-width: 1024px) {
   .cover {
-    width: 1024px;
+    max-width: 1024px;
   }
 }
 
 @media screen and (max-width: 769px) {
   .cover {
-    width: 768px;
+    max-width: 768px;
   }
 }
 
 @media screen and (max-width: 425px) {
   .cover {
-    width: 320px;
+    max-width: 320px;
   }
 }
